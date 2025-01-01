@@ -1,1 +1,9 @@
-Hello World
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.uidai.mAadhaar",
+    "sha256_cert_fingerprints":
+    ["8F:CE:3A:4D:40:5E:FD:3A:5B:45:2E:6E:A2:3B:96:B9:DF:E9:45:0F:58:DA:4B:7C:B7:BC:1D:FA:CD:1B:90:59"]
+  }
+}]
